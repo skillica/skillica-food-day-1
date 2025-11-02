@@ -131,7 +131,7 @@ Open your browser at: http://127.0.0.1:8000/
 ## Licensing
 
 This repository is provided under the custom MIT-style educational license (see LICENSE file).
-You and your students may use and modify the code for educational / non-commercial purposes.
+You may use and modify the code for educational / non-commercial purposes.
 
 ## Need help?
 
